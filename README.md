@@ -6,5 +6,5 @@ This project provides a comprehensive study on Market Basket Analysis using thre
 ## Key Features
 - **Algorithms Implemented:** Apriori, ECLAT, FPGrowth.
 - **Performance Metrics:** Computational time, support, confidence, lift.
-- **Programming Language:** Python (with MLxtend library).
+- **Programming Language:** Python
 
